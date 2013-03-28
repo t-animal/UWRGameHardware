@@ -10,3 +10,18 @@ Benoetigte Hardware
 3. 	einige Taster  
 	On/Off/Reset: http://www.reichelt.de/Wippschalter/?ARTICLE=36785  
 	Rest in blau, weiss und schwarz: http://www.reichelt.de/Drucktaster-Druckschalter/?ARTICLE=19983  
+
+4. 	2 Transistoren >> 5A  
+	www.reichelt.de/IRC-IRF-Transistoren/?ARTICLE=90233  
+
+5.	3 Buchsen fuer die Druecker  
+	TODO: Was sind das fuer Anschluesse/Stecker?  
+
+
+Optionale, aber nuetzliche Dinge
+================================
+1.	6 LEDs zur Anzeige, wo gerade Strom fliesst (Debugging)  
+	Gibts bei mir im Fundus gratis (Mann, ich muss bekloppt sein!)  
+	
+2.	Sicherungen fuer Transistoren  
+	TODO: Stromstaerke der Hupen rausfinden  
