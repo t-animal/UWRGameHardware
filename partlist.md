@@ -17,6 +17,8 @@ Benoetigte Hardware
 5.	3 Buchsen fuer die Druecker  
 	TODO: Was sind das fuer Anschluesse/Stecker?  
 
+6.	Ein Arduino  
+	http://arduino.cc/en/Main/ArduinoBoardMega2560
 
 Optionale, aber nuetzliche Dinge
 ================================
