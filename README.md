@@ -87,11 +87,12 @@ Hinweis: Der PC lässt sich nur verwenden, wenn er beim Starten des Arduino scho
 Hardware
 --------
 * Arduino
-* Mehrzeiliges LCD Display
+* Mehrzeiliges LCD-Display
 * Stromversorgung von Batterie, nicht über USB.
 
 Anzeige am Gerät
 ----------------
+(kann alles im LCD-Display dargestellt werden)
 * Restspielzeit oder Restpausezeit oder Auszeit oder Strafwurfzeit [5-stellig].
 * Indikator, was gerade angezeigt wird.
 * Anzeigen für die jeweils älteste Strafzeit pro Mannschaft.
@@ -105,10 +106,12 @@ Tasten
 * Enter / OK
 * Zurück / Abbrechen / Exit
 * Zeit start/stop
-* Auszeit
+* Auszeit starten, beenden
 * Strafzeit w, Strafzeit b
-* Strafwurf
+* Strafwurf starten, beenden
 * (?) Tor w, Tor b
+
+Kann man Korrekturen eingeben? Wie?
 
 Funktionen
 ----------
