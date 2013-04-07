@@ -30,8 +30,9 @@ Die "dumme" Hardware könnte man erstmal von der Bamberger Hupanlage übernehmen
 Optimal wäre es, wenn zum Testen ein Parallelbetrieb möglich wäre.
 
 * 3 Drücker. Kabel bis zu 50m lang.
-* 3 oder mehr Hupen (Signalhörner), angesteuert über ein Relais (1 ÜW, mind. 2 UW).
-* 12V (Auto)Batterie.
+* 3 oder mehr Hupen (Signalhörner), angesteuert über ein FET (1 ÜW, mind. 2 UW).  
+* Drücker und Hupen: Einfache Stecker, z.B. Bananenstecker.
+* 12V (Auto)Batterie. Eingebaut in ein Gehäuse, Anschlüsse für ext. Batterie und Ladegerät.
 * Ersatzteile für alles.
 
 Optionale Peripherie
@@ -116,7 +117,7 @@ Kann man Korrekturen eingeben? Wie?
 Funktionen
 ----------
 * Drückersignalerkennung (Anhupen/Abhupen oder Anhupen/Tor/Foul)
-* Hupensteuerung (über Relais)
+* Hupenansteuerung (über FET)
 * Spielzeit stoppen
 * Auszeiten stoppen
 * Strafzeiten stoppen
